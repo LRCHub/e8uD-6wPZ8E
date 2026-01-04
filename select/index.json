@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "キミからのアイをもらったあの日",
+  "base_artist": "都識",
+  "createdAt": "2026-01-04T16:15:19.084548Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キミからのアイをもらったあの日",
+      "artist": "都識",
+      "has_synced": false,
+      "path": "select/pl_01_キミからのアイをもらったあの日_都識.txt"
+    }
+  ]
+}
